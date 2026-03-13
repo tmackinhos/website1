@@ -1,15 +1,15 @@
-citizenship-prep-site/
+citizenship-prep-site
 │
 ├── index.html
 ├── style.css
 ├── script.js
 │
-├── lessons/
+├── lessons
 │   ├── civics.html
-│   ├── english.html
+│   └── english.html
 │
-├── quizzes/
+├── quiz
 │   └── civics-quiz.html
 │
-└── api/
-    └── track.js
+└── dashboard
+    └── stats.html
