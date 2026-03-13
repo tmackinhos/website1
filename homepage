@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>CitizenPrep Academy</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+<h1>CitizenPrep Academy 🇺🇸</h1>
+<p>Prepare for the U.S. Citizenship Test</p>
+</header>
+
+<nav>
+<a href="dashboard.html">Dashboard</a>
+<a href="flashcards.html">Civics Flashcards</a>
+<a href="interview.html">Interview Practice</a>
+<a href="login.html">Login</a>
+</nav>
+
+<div class="card">
+
+<h2>Start Your Journey to Citizenship</h2>
+
+<p>
+Study civics questions, practice your interview, and track your progress.
+</p>
+
+</div>
+
+</body>
+</html>
