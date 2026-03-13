@@ -1,0 +1,15 @@
+citizenship-prep-site/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── lessons/
+│   ├── civics.html
+│   ├── english.html
+│
+├── quizzes/
+│   └── civics-quiz.html
+│
+└── api/
+    └── track.js
