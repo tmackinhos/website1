@@ -1,0 +1,49 @@
+body{
+font-family:Arial;
+margin:0;
+background:#f4f6fa;
+}
+
+header{
+background:#002868;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav{
+background:#bf0a30;
+padding:10px;
+text-align:center;
+}
+
+nav a{
+color:white;
+margin:15px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.card{
+background:white;
+padding:20px;
+margin:20px auto;
+width:400px;
+border-radius:10px;
+box-shadow:0 5px 10px rgba(0,0,0,0.1);
+text-align:center;
+}
+
+button{
+background:#002868;
+color:white;
+border:none;
+padding:10px 20px;
+margin-top:10px;
+cursor:pointer;
+border-radius:5px;
+}
+
+button:hover{
+background:#bf0a30;
+}
