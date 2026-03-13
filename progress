@@ -1,0 +1,11 @@
+async function saveProgress(user,lesson){
+
+await supabase
+.from("progress")
+.insert({
+user_id:user,
+lesson:lesson,
+completed:true
+})
+
+}
