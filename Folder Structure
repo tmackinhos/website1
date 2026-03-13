@@ -1,15 +1,22 @@
-citizenship-prep-site
+citizenprep/
 │
 ├── index.html
-├── style.css
-├── script.js
+├── login.html
+├── dashboard.html
+├── flashcards.html
+├── interview.html
 │
-├── lessons
-│   ├── civics.html
-│   └── english.html
+├── admin/
+│   └── admin.html
 │
-├── quiz
-│   └── civics-quiz.html
+├── css/
+│   └── style.css
 │
-└── dashboard
-    └── stats.html
+├── js/
+│   ├── auth.js
+│   ├── flashcards.js
+│   ├── progress.js
+│   └── interview.js
+│
+└── data/
+    └── civics.json
